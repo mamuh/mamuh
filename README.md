@@ -1,4 +1,3 @@
 <div align="center">
-  <h3>mamuh</h3>
-  <img src="https://s3.gifyu.com/images/pc_apple.gif" />
+  <img src="https://hosting.photobucket.com/images/y89/Mamuh/72Ow.gif" />
 </div>
