@@ -1,5 +1,3 @@
 <div align="center"">
-  <img src="https://github.com/mamuh/mamuh/assets/42046917/a5eff4cb-2a9a-4957-8cc8-ffb7c109c744" width="400" />
-  <br>
-  ~ thanks @shaggun for the img
+  <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif?cid=ecf05e471xsa9m4fry842xjhxi5s6avikplcstyi4kg1vvni&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" />
 </div>
